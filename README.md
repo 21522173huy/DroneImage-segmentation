@@ -21,6 +21,7 @@ cd DroneImage-segmentation
 ```
 - Before run `train.py` and `inference.py` script, please download, unzip and locate dataset into `DroneImage-segmentation` dicrectory
 - For example: `uavid_dataset`
+- 
 You can choose from the following model options for the `model_name` parameter:
 
 - `unet3plus`
